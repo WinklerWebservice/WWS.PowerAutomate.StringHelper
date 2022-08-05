@@ -9,4 +9,4 @@ Helper function for Power Automate to handle
 How to create a Customer connector with this code is found here: https://docs.microsoft.com/de-de/connectors/custom-connectors/
 
 ## ToBe Done
-Create leases as managed solutions for Power Apps to provide Customer Connector
+Create releases as managed solutions for Power Apps to provide Customer Connector
