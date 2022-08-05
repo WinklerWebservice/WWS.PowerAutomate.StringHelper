@@ -1,0 +1,2 @@
+# WWS.PowerAutomate.StringHelper
+ 
